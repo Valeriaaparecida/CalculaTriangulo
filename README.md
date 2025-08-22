@@ -1,6 +1,6 @@
 # 📐 Comparação de Áreas de Triângulos
 
-Este projeto é um exercício prático em **Java**.  
+Este projeto é um exercício prático em POO **Java**.  
 O objetivo é **ler as medidas dos lados de dois triângulos (X e Y)**, calcular suas áreas utilizando a **Fórmula de Heron** e determinar qual dos dois possui a maior área.
 
 ---
